@@ -1,0 +1,3 @@
+# Princeton Algorithms Course - Part I & II
+
+Ce dépôt contient les solutions aux exercices du cours "Algorithmes, partie I et II" de Kevin Wayne et Robert Sedgewick, proposé par l'Université de Princeton sur Coursera. Il couvre les concepts fondamentaux des algorithmes, des structures de données et des méthodes de résolution de problèmes. Les exercices sont réalisés en Java et suivent les principes enseignés tout au long du cours.
